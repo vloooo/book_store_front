@@ -1,4 +1,4 @@
-import { MAIN_URL, TOKEN } from '../constants';
+import { MAIN_URL, TOKEN } from '../const/constants';
 
 
 interface Params {

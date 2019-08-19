@@ -4,7 +4,7 @@ import { faShoppingCart, faLongArrowAltRight } from "@fortawesome/free-solid-svg
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { capitalize } from "../utils/general_utils"
 import { BOOK_CARD_FIELDS } from '../const/const_fields';
-import { BASE_PHOTO_URL, EMPTY_PHOTO } from '../constants';
+import { BASE_PHOTO_URL, EMPTY_PHOTO } from '../const/constants';
 
 interface IProps {
     book: any,

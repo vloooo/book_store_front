@@ -7,7 +7,7 @@ import InfoAlert from './SAlerts'
 import SPaginator from './SPaginator'
 import { BOOK_CARD_FIELDS } from '../const/const_fields';
 import { capitalize } from "../utils/general_utils"
-import { EMPTY_PHOTO, BASE_PHOTO_URL } from "../constants";
+import { EMPTY_PHOTO, BASE_PHOTO_URL } from "../const/constants";
 
 interface IProps {
     books: any,
